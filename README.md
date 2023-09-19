@@ -14,7 +14,6 @@ Exceções Personalizadas: O projeto demonstra a implementação de exceções p
 
 Este projeto não apenas aborda os aspectos técnicos da programação Java, mas também serve como uma base sólida para entender conceitos mais avançados. É uma ótima ferramenta para desenvolvedores em crescimento e uma prova de habilidades valiosa para recrutadores em busca de talentos em desenvolvimento de software.
 
-Esta descrição ressalta os pontos fortes do projeto e destaca seu valor educacional e prático, tornando-o mais atraente para tech recruiters.
 
 
 
